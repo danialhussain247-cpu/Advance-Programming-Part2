@@ -1,0 +1,626 @@
+Age,Gender ,Do you use a fitness tracker daily? ,What brand of fitness tracker do you use? ,Do you set a daily step goal on your tracker? ,"On average, do you reach your daily step goal? ",How many minutes of exercise do you complete daily (based on your tracker)? ,Have you ever tracked your heart rate during workouts? ,Do you monitor your sleep using your fitness tracker? ,"On average, how many hours of sleep do you get per night (tracked)? ",Does your fitness tracker send real-time alerts (like move reminders or heart rate warnings)?  ,How important is real-time feedback from your fitness tracker for motivation? ,Would you recommend using a fitness tracker to others? 
+25,Male,No,Apple Watch,Yes,Yes,More than 60 minutes,Yes,Yes,More than 7 hours,No,Not important,Maybe
+25,Male,Sometimes,Samsung,No,No,More than 60 minutes,Yes,No,Less than 5 hours,No,Not important,Maybe
+25,Male,Sometimes,Samsung,No,No,30–60 minutes,No,No,5–7 hours,No,Not important,Maybe
+25,Male,No,Samsung,Yes,Sometimes,More than 60 minutes,Yes,No,5–7 hours,No,Somewhat important,Maybe
+25,Male,No,Garmin,Yes,Yes,Less than 30 minutes,Yes,No,More than 7 hours,No,Very important,Maybe
+25,Male,No,Fitbit,Yes,Sometimes,More than 60 minutes,No,No,5–7 hours,Yes,Very important,Maybe
+25,Male,Sometimes,Apple Watch,No,Sometimes,30–60 minutes,Yes,No,5–7 hours,No,Not important,Maybe
+25,Male,Yes,Fitbit,No,Yes,30–60 minutes,Yes,No,5–7 hours,No,Very important,Yes
+25,Male,No,Other,No,Yes,Less than 30 minutes,No,Yes,5–7 hours,No,Not important,No
+25,Male,Sometimes,Other,Yes,No,Less than 30 minutes,Yes,Yes,Less than 5 hours,Yes,Somewhat important,Yes
+25,Male,Sometimes,Garmin,No,Sometimes,Less than 30 minutes,No,Yes,5–7 hours,No,Very important,Yes
+25,Male,Yes,Fitbit,Yes,Yes,More than 60 minutes,No,Yes,More than 7 hours,Yes,Very important,No
+25,Male,Sometimes,Apple Watch,Yes,Sometimes,Less than 30 minutes,Yes,Yes,5–7 hours,Yes,Very important,Yes
+25,Male,Sometimes,Apple Watch,Yes,Sometimes,30–60 minutes,Yes,No,Less than 5 hours,No,Very important,Maybe
+25,Male,Yes,Fitbit,No,Yes,More than 60 minutes,Yes,Yes,More than 7 hours,Yes,Not important,Yes
+25,Male,Yes,Fitbit,No,Yes,More than 60 minutes,Yes,Yes,5–7 hours,Yes,Somewhat important,Maybe
+25,Male,Yes,Fitbit,Yes,No,Less than 30 minutes,No,Yes,More than 7 hours,No,Not important,Yes
+25,Male,Sometimes,Garmin,Yes,Yes,Less than 30 minutes,Yes,No,5–7 hours,No,Not important,Maybe
+25,Male,Yes,Samsung,No,Sometimes,More than 60 minutes,No,No,More than 7 hours,No,Not important,No
+25,Male,Yes,Apple Watch,No,Yes,Less than 30 minutes,Yes,Yes,5–7 hours,No,Somewhat important,Yes
+25,Male,No,Garmin,Yes,Sometimes,Less than 30 minutes,Yes,No,5–7 hours,Yes,Somewhat important,Maybe
+25,Male,No,Fitbit,Yes,Sometimes,30–60 minutes,No,Yes,Less than 5 hours,Yes,Very important,Yes
+25,Male,No,Fitbit,Yes,Sometimes,Less than 30 minutes,Yes,Yes,5–7 hours,Yes,Very important,Yes
+25,Male,No,Samsung,No,Sometimes,30–60 minutes,Yes,No,Less than 5 hours,Yes,Somewhat important,Yes
+25,Male,Yes,Other,Yes,Sometimes,More than 60 minutes,Yes,Yes,5–7 hours,Yes,Somewhat important,Yes
+25,Male,No,Samsung,Yes,Sometimes,30–60 minutes,No,No,More than 7 hours,No,Somewhat important,Yes
+25,Male,Sometimes,Samsung,No,Yes,More than 60 minutes,Yes,Yes,More than 7 hours,No,Not important,Yes
+25,Male,No,Garmin,Yes,Sometimes,More than 60 minutes,No,Yes,5–7 hours,Yes,Not important,Yes
+25,Male,Sometimes,Fitbit,Yes,Yes,More than 60 minutes,No,Yes,5–7 hours,No,Somewhat important,Yes
+25,Male,Sometimes,Fitbit,Yes,No,30–60 minutes,Yes,Yes,More than 7 hours,Yes,Very important,Yes
+25,Male,No,Garmin,Yes,Sometimes,30–60 minutes,Yes,No,Less than 5 hours,No,Somewhat important,Maybe
+25,Male,No,Fitbit,No,Yes,30–60 minutes,Yes,Yes,More than 7 hours,No,Somewhat important,No
+25,Male,Yes,Fitbit,Yes,Yes,Less than 30 minutes,Yes,Yes,More than 7 hours,No,Very important,Yes
+25,Male,Sometimes,Garmin,Yes,Yes,30–60 minutes,No,No,5–7 hours,No,Very important,Maybe
+25,Male,No,Samsung,No,No,Less than 30 minutes,Yes,No,Less than 5 hours,No,Very important,Yes
+25,Male,No,Apple Watch,Yes,No,30–60 minutes,No,Yes,5–7 hours,No,Not important,Maybe
+25,Male,Sometimes,Fitbit,Yes,No,More than 60 minutes,No,Yes,More than 7 hours,Yes,Not important,No
+25,Male,No,Fitbit,No,Sometimes,Less than 30 minutes,No,No,More than 7 hours,Yes,Very important,No
+25,Male,Yes,Garmin,No,Sometimes,Less than 30 minutes,No,No,5–7 hours,Yes,Somewhat important,Maybe
+25,Male,Sometimes,Fitbit,Yes,No,30–60 minutes,No,Yes,5–7 hours,No,Very important,Maybe
+25,Male,No,Garmin,Yes,Yes,More than 60 minutes,Yes,Yes,More than 7 hours,Yes,Somewhat important,Maybe
+25,Male,Sometimes,Other,No,No,Less than 30 minutes,No,Yes,Less than 5 hours,Yes,Not important,No
+25,Male,Yes,Other,Yes,No,More than 60 minutes,No,No,5–7 hours,No,Not important,Yes
+25,Male,Yes,Samsung,No,Sometimes,More than 60 minutes,Yes,Yes,Less than 5 hours,No,Not important,Yes
+25,Male,Yes,Other,No,Sometimes,Less than 30 minutes,No,Yes,5–7 hours,No,Very important,Yes
+25,Male,Sometimes,Other,No,Yes,30–60 minutes,No,Yes,Less than 5 hours,Yes,Very important,Yes
+25,Male,Sometimes,Other,Yes,No,30–60 minutes,Yes,Yes,More than 7 hours,Yes,Very important,No
+25,Male,Yes,Garmin,Yes,Sometimes,More than 60 minutes,No,No,Less than 5 hours,No,Not important,No
+25,Male,Sometimes,Samsung,No,Sometimes,Less than 30 minutes,Yes,No,More than 7 hours,Yes,Not important,Yes
+25,Male,Yes,Apple Watch,No,Yes,Less than 30 minutes,No,Yes,5–7 hours,Yes,Very important,No
+25,Male,No,Fitbit,No,Sometimes,More than 60 minutes,Yes,No,More than 7 hours,Yes,Very important,Yes
+25,Male,Sometimes,Other,Yes,Yes,30–60 minutes,Yes,No,5–7 hours,No,Somewhat important,No
+25,Male,Yes,Samsung,No,Yes,30–60 minutes,Yes,No,5–7 hours,No,Not important,Maybe
+25,Male,No,Samsung,No,No,Less than 30 minutes,Yes,No,5–7 hours,Yes,Very important,Maybe
+25,Male,Yes,Fitbit,Yes,Yes,30–60 minutes,No,No,More than 7 hours,Yes,Very important,No
+25,Male,No,Apple Watch,Yes,No,30–60 minutes,No,No,More than 7 hours,Yes,Somewhat important,No
+25,Male,No,Apple Watch,No,Yes,More than 60 minutes,No,No,Less than 5 hours,Yes,Not important,Yes
+25,Male,Sometimes,Fitbit,Yes,Sometimes,30–60 minutes,Yes,No,Less than 5 hours,No,Not important,Yes
+25,Male,Yes,Apple Watch,Yes,Sometimes,30–60 minutes,Yes,Yes,Less than 5 hours,Yes,Somewhat important,Maybe
+25,Male,No,Apple Watch,No,Yes,Less than 30 minutes,No,Yes,5–7 hours,No,Not important,Yes
+25,Male,Sometimes,Other,Yes,Sometimes,More than 60 minutes,No,Yes,More than 7 hours,No,Somewhat important,Yes
+25,Male,No,Other,No,No,30–60 minutes,No,Yes,More than 7 hours,No,Somewhat important,No
+25,Male,Sometimes,Fitbit,No,Sometimes,30–60 minutes,No,No,5–7 hours,No,Very important,Maybe
+25,Male,Yes,Garmin,No,Sometimes,Less than 30 minutes,Yes,Yes,More than 7 hours,Yes,Very important,Yes
+25,Male,Sometimes,Other,Yes,Yes,30–60 minutes,Yes,Yes,More than 7 hours,No,Not important,Yes
+25,Male,Sometimes,Samsung,No,No,30–60 minutes,Yes,No,5–7 hours,No,Somewhat important,No
+25,Male,Yes,Apple Watch,Yes,Sometimes,30–60 minutes,No,No,More than 7 hours,No,Somewhat important,No
+25,Female,No,Fitbit,Yes,Yes,30–60 minutes,No,No,5–7 hours,Yes,Somewhat important,No
+25,Female,No,Samsung,Yes,Yes,More than 60 minutes,Yes,Yes,5–7 hours,No,Not important,Maybe
+25,Female,No,Apple Watch,No,No,More than 60 minutes,Yes,Yes,5–7 hours,Yes,Very important,Yes
+25,Female,No,Fitbit,Yes,Yes,30–60 minutes,Yes,No,Less than 5 hours,Yes,Not important,Yes
+25,Female,No,Other,Yes,Sometimes,Less than 30 minutes,Yes,Yes,Less than 5 hours,Yes,Somewhat important,No
+25,Female,No,Garmin,Yes,Yes,30–60 minutes,No,Yes,More than 7 hours,Yes,Very important,Maybe
+25,Female,Sometimes,Samsung,Yes,Sometimes,More than 60 minutes,Yes,Yes,Less than 5 hours,Yes,Very important,No
+25,Female,No,Samsung,No,No,More than 60 minutes,Yes,No,5–7 hours,No,Not important,Yes
+25,Female,Yes,Fitbit,Yes,Sometimes,30–60 minutes,Yes,Yes,More than 7 hours,Yes,Not important,No
+25,Female,Sometimes,Samsung,Yes,No,Less than 30 minutes,Yes,Yes,More than 7 hours,No,Somewhat important,Maybe
+25,Female,Sometimes,Apple Watch,No,No,More than 60 minutes,Yes,No,5–7 hours,Yes,Not important,No
+25,Female,Sometimes,Other,Yes,No,30–60 minutes,No,Yes,More than 7 hours,No,Not important,Maybe
+25,Female,Yes,Samsung,Yes,Sometimes,More than 60 minutes,No,Yes,Less than 5 hours,Yes,Somewhat important,Yes
+25,Female,No,Samsung,No,Sometimes,30–60 minutes,Yes,Yes,5–7 hours,No,Somewhat important,Maybe
+25,Female,Yes,Other,No,Yes,Less than 30 minutes,Yes,No,More than 7 hours,No,Not important,No
+25,Female,Sometimes,Samsung,No,Yes,30–60 minutes,No,No,More than 7 hours,No,Somewhat important,No
+25,Female,Sometimes,Other,Yes,Sometimes,More than 60 minutes,Yes,No,More than 7 hours,Yes,Very important,Maybe
+25,Female,No,Apple Watch,Yes,No,Less than 30 minutes,Yes,No,More than 7 hours,Yes,Somewhat important,Yes
+25,Female,No,Apple Watch,Yes,Sometimes,Less than 30 minutes,Yes,No,Less than 5 hours,No,Very important,Yes
+25,Female,No,Fitbit,Yes,No,30–60 minutes,Yes,Yes,More than 7 hours,No,Not important,Maybe
+25,Female,Yes,Apple Watch,No,Yes,30–60 minutes,Yes,Yes,5–7 hours,No,Not important,Maybe
+25,Female,No,Other,Yes,Sometimes,Less than 30 minutes,Yes,Yes,5–7 hours,Yes,Somewhat important,Maybe
+25,Female,Yes,Garmin,Yes,No,30–60 minutes,Yes,No,More than 7 hours,Yes,Somewhat important,Yes
+25,Female,Yes,Apple Watch,Yes,Sometimes,Less than 30 minutes,No,No,More than 7 hours,No,Not important,No
+25,Female,Sometimes,Other,No,Sometimes,30–60 minutes,Yes,No,Less than 5 hours,No,Very important,Yes
+25,Female,Yes,Apple Watch,Yes,Sometimes,30–60 minutes,No,Yes,Less than 5 hours,No,Very important,Maybe
+25,Female,Yes,Apple Watch,Yes,Sometimes,Less than 30 minutes,Yes,Yes,5–7 hours,Yes,Somewhat important,Yes
+25,Female,No,Apple Watch,Yes,No,Less than 30 minutes,No,No,More than 7 hours,Yes,Somewhat important,Maybe
+25,Female,Yes,Samsung,Yes,No,Less than 30 minutes,Yes,No,Less than 5 hours,Yes,Somewhat important,Maybe
+25,Female,Yes,Samsung,No,No,Less than 30 minutes,Yes,No,Less than 5 hours,No,Not important,Maybe
+25,Female,Sometimes,Other,Yes,Yes,30–60 minutes,No,Yes,5–7 hours,No,Very important,No
+25,Female,Sometimes,Fitbit,Yes,Yes,Less than 30 minutes,No,Yes,5–7 hours,Yes,Very important,Maybe
+25,Female,No,Fitbit,No,Yes,Less than 30 minutes,No,No,5–7 hours,Yes,Very important,Maybe
+25,Female,Sometimes,Samsung,Yes,Sometimes,Less than 30 minutes,Yes,No,More than 7 hours,Yes,Somewhat important,No
+25,Female,Sometimes,Other,Yes,No,Less than 30 minutes,No,No,More than 7 hours,Yes,Not important,Maybe
+25,Female,Sometimes,Samsung,No,No,30–60 minutes,Yes,Yes,Less than 5 hours,Yes,Very important,Maybe
+25,Female,Sometimes,Samsung,Yes,Sometimes,30–60 minutes,No,No,5–7 hours,No,Not important,No
+25,Female,Sometimes,Fitbit,Yes,No,Less than 30 minutes,Yes,No,Less than 5 hours,Yes,Somewhat important,Maybe
+25,Female,No,Other,Yes,No,More than 60 minutes,Yes,No,5–7 hours,Yes,Not important,No
+25,Female,Sometimes,Fitbit,Yes,No,30–60 minutes,No,Yes,More than 7 hours,No,Somewhat important,No
+25,Female,No,Garmin,Yes,Sometimes,More than 60 minutes,Yes,Yes,5–7 hours,Yes,Very important,Maybe
+25,Female,Yes,Garmin,Yes,Sometimes,More than 60 minutes,No,Yes,Less than 5 hours,Yes,Somewhat important,Yes
+25,Female,Yes,Other,Yes,Sometimes,30–60 minutes,No,Yes,More than 7 hours,No,Not important,Maybe
+25,Female,Sometimes,Other,Yes,Sometimes,More than 60 minutes,Yes,No,More than 7 hours,Yes,Somewhat important,Yes
+25,Female,Yes,Garmin,No,Sometimes,30–60 minutes,No,Yes,Less than 5 hours,No,Not important,Yes
+25,Female,No,Apple Watch,Yes,Yes,30–60 minutes,No,No,5–7 hours,Yes,Somewhat important,Maybe
+25,Female,No,Apple Watch,No,No,More than 60 minutes,Yes,No,More than 7 hours,Yes,Very important,Maybe
+25,Female,Sometimes,Other,Yes,No,30–60 minutes,No,No,Less than 5 hours,No,Not important,Yes
+25,Female,Yes,Other,No,Sometimes,More than 60 minutes,Yes,No,5–7 hours,No,Somewhat important,Yes
+25,Female,No,Other,Yes,No,Less than 30 minutes,Yes,No,More than 7 hours,No,Not important,Yes
+25,Female,Yes,Apple Watch,No,Sometimes,More than 60 minutes,Yes,Yes,5–7 hours,No,Somewhat important,No
+25,Female,No,Garmin,Yes,No,30–60 minutes,Yes,No,Less than 5 hours,No,Somewhat important,Maybe
+25,Female,Yes,Other,Yes,Yes,More than 60 minutes,No,Yes,5–7 hours,No,Somewhat important,Maybe
+25,Female,No,Garmin,No,Sometimes,Less than 30 minutes,No,Yes,5–7 hours,No,Somewhat important,Maybe
+25,Female,No,Samsung,Yes,Yes,30–60 minutes,Yes,No,5–7 hours,Yes,Somewhat important,Maybe
+25,Female,Yes,Samsung,Yes,Sometimes,Less than 30 minutes,No,No,Less than 5 hours,Yes,Not important,Maybe
+25,Female,No,Other,No,No,30–60 minutes,Yes,Yes,5–7 hours,Yes,Very important,Yes
+25,Female,Sometimes,Other,Yes,Sometimes,More than 60 minutes,No,No,Less than 5 hours,No,Not important,No
+25,Female,Yes,Other,Yes,Yes,More than 60 minutes,No,No,5–7 hours,Yes,Very important,No
+25,Female,No,Fitbit,No,Yes,Less than 30 minutes,Yes,Yes,Less than 5 hours,Yes,Not important,No
+25,Female,No,Apple Watch,Yes,Sometimes,30–60 minutes,No,No,More than 7 hours,Yes,Very important,Yes
+25,Female,No,Other,Yes,Yes,30–60 minutes,Yes,Yes,5–7 hours,No,Somewhat important,Maybe
+25,Female,Sometimes,Other,No,Yes,30–60 minutes,Yes,No,Less than 5 hours,Yes,Very important,No
+25,Female,No,Garmin,Yes,No,More than 60 minutes,No,No,5–7 hours,No,Very important,Yes
+25,Female,Yes,Other,Yes,Sometimes,30–60 minutes,Yes,No,Less than 5 hours,No,Not important,Maybe
+25,Female,No,Fitbit,Yes,Sometimes,Less than 30 minutes,No,No,5–7 hours,Yes,Not important,Maybe
+25,Female,Yes,Other,Yes,Sometimes,30–60 minutes,No,Yes,More than 7 hours,No,Very important,Yes
+25,Female,No,Other,Yes,Sometimes,Less than 30 minutes,Yes,Yes,Less than 5 hours,Yes,Not important,Yes
+25,Female,Sometimes,Garmin,Yes,No,More than 60 minutes,No,Yes,Less than 5 hours,No,Not important,No
+25,Female,No,Apple Watch,Yes,Yes,Less than 30 minutes,Yes,No,More than 7 hours,Yes,Somewhat important,Maybe
+25,Female,No,Other,Yes,No,More than 60 minutes,Yes,No,More than 7 hours,Yes,Very important,No
+25,Female,No,Samsung,No,Yes,30–60 minutes,Yes,Yes,5–7 hours,Yes,Somewhat important,Maybe
+25,Female,No,Garmin,Yes,Sometimes,More than 60 minutes,Yes,Yes,5–7 hours,No,Somewhat important,No
+25,Female,No,Garmin,No,No,30–60 minutes,No,Yes,5–7 hours,No,Very important,No
+25,Female,Sometimes,Garmin,Yes,Sometimes,More than 60 minutes,Yes,Yes,5–7 hours,No,Somewhat important,No
+25,Female,Yes,Other,No,Sometimes,30–60 minutes,No,No,More than 7 hours,No,Not important,Yes
+25,Female,Yes,Garmin,No,Sometimes,More than 60 minutes,Yes,Yes,Less than 5 hours,No,Very important,Maybe
+25,Female,Sometimes,Garmin,No,Sometimes,30–60 minutes,No,Yes,More than 7 hours,Yes,Very important,Maybe
+25,Female,Sometimes,Apple Watch,Yes,No,Less than 30 minutes,Yes,No,5–7 hours,No,Very important,Yes
+25,Female,Sometimes,Garmin,No,No,More than 60 minutes,No,No,More than 7 hours,No,Somewhat important,Maybe
+25,Female,No,Fitbit,Yes,No,30–60 minutes,No,Yes,Less than 5 hours,Yes,Somewhat important,Yes
+25,Female,No,Fitbit,Yes,Sometimes,More than 60 minutes,No,No,Less than 5 hours,Yes,Very important,Maybe
+25,Female,Sometimes,Apple Watch,No,Yes,More than 60 minutes,Yes,No,More than 7 hours,No,Somewhat important,Maybe
+25,Female,Yes,Apple Watch,Yes,Sometimes,30–60 minutes,Yes,Yes,5–7 hours,Yes,Very important,No
+25,Female,Yes,Apple Watch,No,Sometimes,Less than 30 minutes,No,No,5–7 hours,No,Somewhat important,Maybe
+25,Female,Sometimes,Apple Watch,Yes,No,More than 60 minutes,No,Yes,Less than 5 hours,Yes,Very important,Yes
+25,Female,Yes,Apple Watch,No,Yes,30–60 minutes,Yes,No,More than 7 hours,No,Somewhat important,No
+25,Female,No,Garmin,Yes,Yes,Less than 30 minutes,No,Yes,5–7 hours,No,Very important,Maybe
+25,Female,No,Other,Yes,No,More than 60 minutes,Yes,No,More than 7 hours,No,Somewhat important,No
+25,Female,Yes,Fitbit,Yes,Yes,Less than 30 minutes,No,No,5–7 hours,Yes,Somewhat important,No
+25,Female,No,Other,Yes,Sometimes,Less than 30 minutes,Yes,No,5–7 hours,No,Very important,Yes
+25,Female,No,Fitbit,No,Sometimes,30–60 minutes,Yes,Yes,5–7 hours,Yes,Not important,Yes
+25,Female,Yes,Fitbit,Yes,No,Less than 30 minutes,Yes,Yes,Less than 5 hours,Yes,Very important,Yes
+25,Female,No,Fitbit,Yes,Yes,30–60 minutes,No,No,Less than 5 hours,No,Not important,No
+25,Female,Sometimes,Samsung,Yes,Sometimes,30–60 minutes,Yes,No,Less than 5 hours,No,Somewhat important,Maybe
+25,Female,Sometimes,Apple Watch,Yes,Sometimes,More than 60 minutes,Yes,Yes,5–7 hours,No,Very important,Yes
+25,Female,No,Other,Yes,Yes,30–60 minutes,No,Yes,More than 7 hours,Yes,Somewhat important,Maybe
+25,Female,Yes,Other,No,Sometimes,30–60 minutes,Yes,No,Less than 5 hours,Yes,Somewhat important,No
+25,Female,Yes,Samsung,Yes,Sometimes,30–60 minutes,Yes,Yes,5–7 hours,No,Not important,No
+25,Female,Sometimes,Fitbit,No,Sometimes,30–60 minutes,Yes,No,Less than 5 hours,No,Very important,Maybe
+26,Female,Yes,Samsung,Yes,Sometimes,Less than 30 minutes,Yes,Yes,5–7 hours,No,Very important,Yes
+20,Male,No,Apple Watch,No,No,30–60 minutes,Yes,No,More than 7 hours,Yes,Not important,Yes
+20,Female,No,Garmin,Yes,No,30–60 minutes,No,Yes,5–7 hours,Yes,Very important,Yes
+20,Female,Yes,Fitbit,Yes,Sometimes,Less than 30 minutes,Yes,Yes,Less than 5 hours,Yes,Very important,Maybe
+20,Male,No,Fitbit,Yes,Sometimes,More than 60 minutes,No,No,More than 7 hours,Yes,Very important,No
+20,Female,No,Other,Yes,Yes,30–60 minutes,Yes,Yes,Less than 5 hours,Yes,Not important,No
+20,Female,Sometimes,Fitbit,Yes,No,Less than 30 minutes,No,No,5–7 hours,Yes,Very important,No
+20,Male,Yes,Fitbit,No,Sometimes,Less than 30 minutes,No,No,5–7 hours,Yes,Very important,No
+20,Male,Yes,Garmin,No,Sometimes,Less than 30 minutes,Yes,Yes,Less than 5 hours,No,Not important,No
+20,Male,Sometimes,Fitbit,No,Yes,Less than 30 minutes,Yes,Yes,More than 7 hours,Yes,Not important,Yes
+20,Male,Yes,Fitbit,Yes,Yes,More than 60 minutes,No,Yes,Less than 5 hours,Yes,Not important,Yes
+20,Female,Yes,Apple Watch,Yes,No,30–60 minutes,No,Yes,More than 7 hours,No,Not important,Yes
+20,Male,Sometimes,Other,No,No,30–60 minutes,Yes,No,5–7 hours,No,Not important,Yes
+20,Female,Sometimes,Samsung,No,No,Less than 30 minutes,Yes,Yes,Less than 5 hours,No,Somewhat important,Yes
+20,Female,No,Garmin,Yes,Sometimes,30–60 minutes,Yes,No,Less than 5 hours,No,Somewhat important,Maybe
+20,Female,Sometimes,Apple Watch,Yes,Sometimes,More than 60 minutes,No,No,5–7 hours,No,Somewhat important,No
+20,Male,Yes,Samsung,Yes,No,Less than 30 minutes,No,Yes,More than 7 hours,No,Somewhat important,Yes
+20,Male,Yes,Garmin,Yes,Sometimes,More than 60 minutes,Yes,No,5–7 hours,Yes,Not important,No
+20,Female,Sometimes,Other,Yes,Sometimes,Less than 30 minutes,No,No,More than 7 hours,Yes,Not important,Maybe
+20,Female,No,Garmin,Yes,No,30–60 minutes,No,No,5–7 hours,No,Not important,Yes
+20,Female,No,Garmin,No,Sometimes,30–60 minutes,Yes,No,5–7 hours,No,Not important,Maybe
+20,Female,No,Garmin,Yes,Sometimes,30–60 minutes,Yes,No,More than 7 hours,Yes,Somewhat important,No
+20,Male,Yes,Other,No,Yes,Less than 30 minutes,Yes,Yes,More than 7 hours,No,Somewhat important,Yes
+20,Female,Sometimes,Other,Yes,No,Less than 30 minutes,No,No,More than 7 hours,Yes,Not important,Yes
+20,Female,Yes,Samsung,Yes,Yes,30–60 minutes,No,Yes,5–7 hours,No,Very important,Maybe
+20,Female,Sometimes,Other,Yes,Yes,More than 60 minutes,No,No,More than 7 hours,Yes,Very important,Yes
+20,Male,Yes,Apple Watch,No,Yes,More than 60 minutes,No,Yes,5–7 hours,No,Somewhat important,No
+20,Female,Yes,Other,No,Sometimes,More than 60 minutes,Yes,Yes,More than 7 hours,Yes,Not important,Yes
+20,Male,No,Samsung,No,No,More than 60 minutes,No,Yes,5–7 hours,No,Somewhat important,No
+20,Male,No,Other,Yes,Yes,30–60 minutes,Yes,Yes,More than 7 hours,No,Very important,Maybe
+20,Female,No,Fitbit,Yes,No,30–60 minutes,Yes,Yes,More than 7 hours,Yes,Very important,Maybe
+20,Male,Yes,Other,No,No,More than 60 minutes,No,Yes,5–7 hours,Yes,Very important,No
+20,Female,Yes,Fitbit,No,No,Less than 30 minutes,No,Yes,Less than 5 hours,Yes,Somewhat important,No
+20,Male,No,Apple Watch,No,Yes,Less than 30 minutes,Yes,Yes,5–7 hours,Yes,Somewhat important,Maybe
+20,Female,Sometimes,Apple Watch,Yes,No,More than 60 minutes,No,No,5–7 hours,No,Not important,Yes
+20,Male,Sometimes,Garmin,Yes,Sometimes,30–60 minutes,No,No,Less than 5 hours,No,Somewhat important,No
+20,Female,Sometimes,Apple Watch,Yes,No,More than 60 minutes,No,No,5–7 hours,No,Not important,No
+20,Male,Yes,Fitbit,No,Yes,Less than 30 minutes,No,No,More than 7 hours,Yes,Very important,Maybe
+20,Male,No,Fitbit,Yes,No,Less than 30 minutes,No,No,Less than 5 hours,No,Very important,Maybe
+20,Female,Yes,Garmin,Yes,Sometimes,Less than 30 minutes,No,Yes,Less than 5 hours,No,Somewhat important,Yes
+20,Male,No,Other,No,Yes,30–60 minutes,Yes,Yes,5–7 hours,Yes,Not important,No
+20,Female,Yes,Other,No,Yes,Less than 30 minutes,Yes,No,More than 7 hours,No,Not important,No
+20,Female,No,Garmin,Yes,No,30–60 minutes,Yes,Yes,Less than 5 hours,No,Somewhat important,Maybe
+20,Female,Sometimes,Fitbit,Yes,Sometimes,Less than 30 minutes,Yes,No,More than 7 hours,No,Not important,No
+20,Male,No,Other,No,No,More than 60 minutes,No,Yes,More than 7 hours,No,Somewhat important,Yes
+20,Male,Yes,Apple Watch,Yes,No,More than 60 minutes,Yes,Yes,More than 7 hours,Yes,Not important,Yes
+20,Male,Sometimes,Fitbit,Yes,Yes,Less than 30 minutes,No,Yes,Less than 5 hours,Yes,Very important,Yes
+20,Female,No,Samsung,No,Sometimes,Less than 30 minutes,Yes,No,Less than 5 hours,Yes,Somewhat important,Maybe
+20,Male,Yes,Fitbit,Yes,Yes,More than 60 minutes,Yes,Yes,More than 7 hours,Yes,Somewhat important,No
+20,Male,Sometimes,Apple Watch,Yes,Sometimes,Less than 30 minutes,Yes,Yes,Less than 5 hours,No,Somewhat important,Maybe
+20,Female,Yes,Other,Yes,Yes,Less than 30 minutes,Yes,Yes,5–7 hours,No,Somewhat important,Yes
+20,Male,Sometimes,Samsung,No,No,30–60 minutes,No,No,5–7 hours,Yes,Somewhat important,Maybe
+20,Male,No,Garmin,No,Yes,30–60 minutes,No,Yes,5–7 hours,No,Very important,Yes
+20,Male,Yes,Samsung,No,Sometimes,More than 60 minutes,No,No,5–7 hours,Yes,Somewhat important,No
+20,Male,Yes,Samsung,No,Sometimes,More than 60 minutes,No,Yes,5–7 hours,Yes,Somewhat important,Maybe
+20,Male,Yes,Other,Yes,Sometimes,Less than 30 minutes,No,No,More than 7 hours,No,Very important,No
+20,Male,Yes,Garmin,Yes,Yes,30–60 minutes,Yes,Yes,5–7 hours,Yes,Not important,No
+20,Male,Sometimes,Fitbit,Yes,Sometimes,Less than 30 minutes,No,No,More than 7 hours,Yes,Not important,Yes
+20,Male,Sometimes,Fitbit,Yes,No,30–60 minutes,No,No,5–7 hours,Yes,Somewhat important,No
+20,Female,Yes,Garmin,Yes,No,More than 60 minutes,No,Yes,5–7 hours,Yes,Very important,Yes
+20,Female,Sometimes,Garmin,Yes,No,More than 60 minutes,No,Yes,More than 7 hours,No,Somewhat important,Yes
+20,Female,No,Fitbit,No,No,Less than 30 minutes,Yes,No,Less than 5 hours,Yes,Not important,No
+20,Male,Yes,Fitbit,Yes,No,Less than 30 minutes,Yes,No,More than 7 hours,No,Somewhat important,Maybe
+20,Male,Yes,Fitbit,Yes,No,More than 60 minutes,No,No,Less than 5 hours,No,Not important,No
+20,Female,Sometimes,Samsung,No,Yes,30–60 minutes,Yes,Yes,More than 7 hours,No,Not important,Yes
+20,Female,No,Garmin,Yes,No,30–60 minutes,No,Yes,Less than 5 hours,No,Very important,Yes
+20,Female,No,Garmin,Yes,No,More than 60 minutes,Yes,No,Less than 5 hours,Yes,Very important,Yes
+20,Female,Yes,Apple Watch,No,Sometimes,Less than 30 minutes,No,Yes,More than 7 hours,Yes,Very important,Maybe
+20,Male,No,Samsung,Yes,Sometimes,More than 60 minutes,Yes,Yes,More than 7 hours,Yes,Somewhat important,Yes
+20,Male,Yes,Samsung,Yes,Sometimes,Less than 30 minutes,Yes,No,More than 7 hours,Yes,Very important,No
+20,Female,Sometimes,Garmin,No,Yes,30–60 minutes,No,Yes,Less than 5 hours,Yes,Very important,Yes
+20,Female,Sometimes,Garmin,Yes,No,Less than 30 minutes,Yes,Yes,Less than 5 hours,No,Very important,Yes
+20,Male,No,Fitbit,No,No,More than 60 minutes,No,No,More than 7 hours,Yes,Somewhat important,No
+20,Male,Sometimes,Garmin,Yes,No,30–60 minutes,Yes,No,5–7 hours,Yes,Not important,Maybe
+20,Female,No,Fitbit,No,Yes,30–60 minutes,Yes,No,More than 7 hours,Yes,Very important,Yes
+20,Female,No,Other,No,No,More than 60 minutes,Yes,Yes,5–7 hours,Yes,Somewhat important,Yes
+20,Female,Yes,Samsung,Yes,No,More than 60 minutes,Yes,No,5–7 hours,No,Not important,Yes
+20,Female,No,Samsung,No,Sometimes,More than 60 minutes,No,Yes,Less than 5 hours,Yes,Somewhat important,Maybe
+20,Female,Yes,Garmin,No,Yes,Less than 30 minutes,Yes,No,More than 7 hours,No,Somewhat important,No
+20,Male,No,Samsung,Yes,Yes,More than 60 minutes,Yes,Yes,More than 7 hours,Yes,Not important,No
+20,Female,Sometimes,Apple Watch,Yes,Sometimes,30–60 minutes,No,Yes,Less than 5 hours,Yes,Somewhat important,No
+20,Female,No,Fitbit,No,Sometimes,Less than 30 minutes,No,No,Less than 5 hours,No,Somewhat important,Maybe
+20,Male,Sometimes,Samsung,No,Yes,30–60 minutes,Yes,Yes,More than 7 hours,Yes,Very important,No
+20,Male,Sometimes,Apple Watch,Yes,No,Less than 30 minutes,No,Yes,5–7 hours,Yes,Not important,No
+20,Female,Yes,Fitbit,No,Sometimes,More than 60 minutes,No,No,5–7 hours,Yes,Somewhat important,No
+20,Female,Sometimes,Other,Yes,No,More than 60 minutes,No,No,Less than 5 hours,No,Somewhat important,Maybe
+20,Male,Sometimes,Other,No,Yes,Less than 30 minutes,No,Yes,More than 7 hours,Yes,Somewhat important,Maybe
+20,Female,Sometimes,Garmin,Yes,No,More than 60 minutes,No,Yes,More than 7 hours,Yes,Very important,Yes
+20,Female,Yes,Samsung,Yes,Yes,30–60 minutes,Yes,Yes,Less than 5 hours,No,Not important,No
+20,Female,Yes,Fitbit,No,Yes,Less than 30 minutes,Yes,Yes,Less than 5 hours,Yes,Somewhat important,Maybe
+20,Male,Yes,Other,No,Sometimes,30–60 minutes,Yes,Yes,More than 7 hours,No,Not important,No
+20,Male,Yes,Samsung,No,Yes,Less than 30 minutes,No,Yes,More than 7 hours,No,Very important,Maybe
+20,Female,No,Samsung,No,No,Less than 30 minutes,Yes,No,5–7 hours,No,Somewhat important,No
+20,Male,Yes,Other,Yes,Sometimes,Less than 30 minutes,No,Yes,More than 7 hours,Yes,Very important,No
+20,Female,Yes,Apple Watch,Yes,Sometimes,30–60 minutes,No,Yes,5–7 hours,Yes,Not important,Maybe
+20,Female,No,Apple Watch,Yes,No,Less than 30 minutes,No,No,5–7 hours,No,Somewhat important,Yes
+20,Female,Sometimes,Samsung,Yes,Sometimes,More than 60 minutes,No,Yes,5–7 hours,Yes,Somewhat important,Maybe
+20,Male,No,Samsung,No,Yes,Less than 30 minutes,Yes,No,Less than 5 hours,Yes,Somewhat important,No
+20,Female,Sometimes,Samsung,Yes,No,Less than 30 minutes,No,No,Less than 5 hours,No,Somewhat important,Yes
+20,Male,Sometimes,Apple Watch,No,Yes,More than 60 minutes,No,Yes,Less than 5 hours,No,Very important,Maybe
+20,Male,No,Fitbit,Yes,No,Less than 30 minutes,Yes,Yes,More than 7 hours,No,Not important,Yes
+22,Female,Sometimes,Fitbit,Yes,Sometimes,30–60 minutes,No,No,Less than 5 hours,No,Somewhat important,Yes
+22,Female,No,Apple Watch,No,Sometimes,Less than 30 minutes,No,Yes,Less than 5 hours,Yes,Somewhat important,No
+22,Male,No,Samsung,Yes,Sometimes,Less than 30 minutes,Yes,Yes,Less than 5 hours,Yes,Not important,Maybe
+22,Female,Yes,Garmin,No,Yes,Less than 30 minutes,Yes,Yes,5–7 hours,No,Not important,No
+22,Male,Sometimes,Fitbit,No,Sometimes,30–60 minutes,Yes,No,5–7 hours,Yes,Not important,Maybe
+22,Female,Sometimes,Samsung,No,Yes,Less than 30 minutes,No,Yes,5–7 hours,No,Somewhat important,Maybe
+22,Female,No,Fitbit,No,Sometimes,30–60 minutes,Yes,No,Less than 5 hours,Yes,Very important,Yes
+22,Female,No,Samsung,Yes,Yes,Less than 30 minutes,Yes,No,5–7 hours,No,Somewhat important,No
+22,Female,Sometimes,Garmin,No,No,Less than 30 minutes,Yes,Yes,More than 7 hours,Yes,Somewhat important,Maybe
+22,Male,Sometimes,Samsung,No,Sometimes,30–60 minutes,Yes,Yes,5–7 hours,Yes,Very important,Yes
+22,Female,Yes,Samsung,No,No,More than 60 minutes,Yes,Yes,Less than 5 hours,Yes,Somewhat important,No
+22,Female,Yes,Other,No,Sometimes,30–60 minutes,No,Yes,5–7 hours,No,Very important,Yes
+22,Male,No,Apple Watch,Yes,Yes,30–60 minutes,No,No,More than 7 hours,No,Very important,No
+22,Male,Sometimes,Fitbit,No,Yes,30–60 minutes,No,Yes,Less than 5 hours,No,Somewhat important,Maybe
+22,Female,Yes,Fitbit,Yes,Sometimes,Less than 30 minutes,Yes,No,Less than 5 hours,No,Not important,No
+22,Male,Sometimes,Fitbit,Yes,Yes,Less than 30 minutes,No,Yes,5–7 hours,Yes,Somewhat important,No
+22,Male,Sometimes,Apple Watch,Yes,Sometimes,More than 60 minutes,Yes,Yes,5–7 hours,Yes,Very important,Yes
+22,Male,Yes,Samsung,No,Yes,30–60 minutes,No,No,5–7 hours,Yes,Very important,No
+22,Female,No,Fitbit,Yes,Sometimes,Less than 30 minutes,No,Yes,More than 7 hours,Yes,Somewhat important,No
+22,Female,No,Fitbit,No,Yes,More than 60 minutes,Yes,Yes,5–7 hours,Yes,Not important,No
+22,Male,No,Apple Watch,Yes,Sometimes,30–60 minutes,Yes,No,More than 7 hours,No,Not important,Yes
+22,Male,Sometimes,Garmin,No,Yes,Less than 30 minutes,Yes,Yes,More than 7 hours,Yes,Very important,No
+22,Female,Sometimes,Fitbit,Yes,Sometimes,30–60 minutes,Yes,No,Less than 5 hours,Yes,Very important,Maybe
+22,Female,No,Garmin,No,No,30–60 minutes,Yes,Yes,Less than 5 hours,No,Somewhat important,Yes
+22,Female,Yes,Fitbit,Yes,No,Less than 30 minutes,Yes,No,Less than 5 hours,No,Somewhat important,Maybe
+22,Male,Sometimes,Apple Watch,No,No,Less than 30 minutes,No,Yes,5–7 hours,Yes,Not important,No
+22,Male,Yes,Samsung,No,No,More than 60 minutes,Yes,No,5–7 hours,Yes,Not important,Maybe
+22,Male,Yes,Garmin,Yes,Yes,Less than 30 minutes,Yes,No,5–7 hours,Yes,Very important,Maybe
+22,Male,Yes,Other,Yes,Sometimes,More than 60 minutes,Yes,No,More than 7 hours,Yes,Not important,Maybe
+22,Female,Yes,Apple Watch,No,Sometimes,30–60 minutes,Yes,No,More than 7 hours,No,Not important,Maybe
+22,Female,Sometimes,Garmin,No,Sometimes,More than 60 minutes,Yes,Yes,Less than 5 hours,Yes,Very important,No
+22,Female,No,Samsung,Yes,Sometimes,Less than 30 minutes,Yes,No,More than 7 hours,No,Somewhat important,No
+22,Male,Yes,Apple Watch,Yes,No,30–60 minutes,Yes,Yes,5–7 hours,No,Very important,Yes
+22,Female,Yes,Garmin,No,Yes,30–60 minutes,No,No,More than 7 hours,No,Not important,Yes
+22,Male,No,Fitbit,Yes,No,Less than 30 minutes,No,No,More than 7 hours,No,Somewhat important,Yes
+22,Male,No,Fitbit,No,No,More than 60 minutes,Yes,Yes,5–7 hours,Yes,Somewhat important,Yes
+22,Female,Yes,Other,Yes,Yes,More than 60 minutes,No,Yes,5–7 hours,No,Not important,Yes
+22,Male,Yes,Samsung,Yes,Sometimes,Less than 30 minutes,No,Yes,Less than 5 hours,Yes,Somewhat important,No
+22,Female,Sometimes,Samsung,No,No,30–60 minutes,No,No,More than 7 hours,Yes,Not important,Yes
+22,Female,No,Garmin,Yes,Yes,30–60 minutes,Yes,No,Less than 5 hours,No,Very important,Yes
+22,Female,Sometimes,Other,No,No,More than 60 minutes,No,No,5–7 hours,Yes,Somewhat important,No
+22,Male,No,Samsung,No,Sometimes,Less than 30 minutes,No,No,More than 7 hours,No,Not important,Yes
+22,Male,Sometimes,Apple Watch,No,No,Less than 30 minutes,No,Yes,Less than 5 hours,Yes,Not important,No
+22,Male,Yes,Samsung,Yes,Yes,More than 60 minutes,Yes,No,More than 7 hours,Yes,Somewhat important,Maybe
+22,Female,Sometimes,Samsung,No,Sometimes,More than 60 minutes,Yes,Yes,More than 7 hours,No,Not important,Yes
+22,Male,No,Other,Yes,Sometimes,30–60 minutes,Yes,No,5–7 hours,No,Somewhat important,Maybe
+22,Female,No,Fitbit,No,Sometimes,More than 60 minutes,No,No,Less than 5 hours,No,Very important,No
+22,Female,Sometimes,Garmin,Yes,No,More than 60 minutes,No,Yes,More than 7 hours,No,Very important,Yes
+22,Male,No,Garmin,Yes,Sometimes,More than 60 minutes,No,Yes,More than 7 hours,No,Very important,No
+22,Female,Sometimes,Other,No,Sometimes,More than 60 minutes,Yes,Yes,Less than 5 hours,No,Somewhat important,Maybe
+22,Female,Sometimes,Fitbit,Yes,Yes,30–60 minutes,No,Yes,5–7 hours,Yes,Not important,Yes
+22,Female,Sometimes,Apple Watch,No,Yes,More than 60 minutes,Yes,Yes,More than 7 hours,No,Not important,No
+22,Male,No,Apple Watch,No,Yes,Less than 30 minutes,No,No,5–7 hours,Yes,Not important,No
+22,Female,Sometimes,Other,Yes,No,More than 60 minutes,No,Yes,5–7 hours,Yes,Very important,Yes
+22,Male,Sometimes,Other,No,Sometimes,Less than 30 minutes,Yes,No,Less than 5 hours,No,Somewhat important,Yes
+22,Female,Sometimes,Garmin,Yes,Yes,30–60 minutes,Yes,Yes,5–7 hours,Yes,Somewhat important,No
+22,Female,Yes,Apple Watch,Yes,Yes,30–60 minutes,No,No,5–7 hours,Yes,Not important,Maybe
+22,Male,Yes,Fitbit,No,No,Less than 30 minutes,Yes,No,5–7 hours,Yes,Not important,Yes
+22,Male,No,Samsung,Yes,Yes,30–60 minutes,Yes,Yes,5–7 hours,Yes,Somewhat important,Yes
+22,Female,No,Other,Yes,Sometimes,Less than 30 minutes,No,No,More than 7 hours,Yes,Somewhat important,Maybe
+22,Male,No,Fitbit,No,Yes,More than 60 minutes,Yes,Yes,Less than 5 hours,No,Very important,Maybe
+22,Female,Sometimes,Other,No,Sometimes,More than 60 minutes,Yes,No,More than 7 hours,Yes,Somewhat important,No
+22,Female,No,Apple Watch,No,Sometimes,30–60 minutes,Yes,Yes,5–7 hours,Yes,Not important,Yes
+22,Male,Sometimes,Garmin,No,Sometimes,30–60 minutes,Yes,Yes,5–7 hours,No,Very important,Maybe
+22,Male,Yes,Garmin,No,Yes,30–60 minutes,No,Yes,5–7 hours,No,Somewhat important,Yes
+22,Male,Sometimes,Garmin,No,Sometimes,More than 60 minutes,No,No,More than 7 hours,No,Somewhat important,Yes
+22,Female,Sometimes,Garmin,Yes,Sometimes,Less than 30 minutes,Yes,Yes,Less than 5 hours,No,Somewhat important,Maybe
+22,Male,Yes,Garmin,Yes,Yes,More than 60 minutes,No,Yes,5–7 hours,No,Very important,Yes
+22,Female,Yes,Other,Yes,Yes,Less than 30 minutes,Yes,Yes,5–7 hours,No,Not important,Yes
+22,Male,No,Apple Watch,Yes,No,More than 60 minutes,No,No,More than 7 hours,No,Very important,Maybe
+22,Male,Sometimes,Garmin,No,No,30–60 minutes,Yes,No,Less than 5 hours,Yes,Very important,No
+22,Female,Yes,Garmin,No,No,More than 60 minutes,No,Yes,Less than 5 hours,No,Somewhat important,Yes
+22,Female,Yes,Garmin,No,Yes,More than 60 minutes,Yes,No,5–7 hours,No,Somewhat important,Maybe
+22,Female,Sometimes,Samsung,No,Yes,More than 60 minutes,No,No,More than 7 hours,No,Not important,Maybe
+22,Male,Yes,Other,Yes,Yes,30–60 minutes,Yes,Yes,5–7 hours,No,Somewhat important,No
+22,Female,Sometimes,Other,No,Yes,More than 60 minutes,Yes,No,Less than 5 hours,No,Not important,Yes
+22,Female,Yes,Samsung,Yes,Sometimes,30–60 minutes,No,No,More than 7 hours,No,Not important,No
+22,Male,Yes,Samsung,Yes,No,Less than 30 minutes,Yes,No,Less than 5 hours,Yes,Not important,No
+22,Female,No,Other,Yes,Sometimes,More than 60 minutes,Yes,Yes,Less than 5 hours,Yes,Very important,No
+22,Male,Sometimes,Samsung,Yes,Yes,More than 60 minutes,Yes,No,More than 7 hours,No,Somewhat important,Yes
+22,Male,Sometimes,Apple Watch,Yes,Sometimes,30–60 minutes,No,Yes,More than 7 hours,No,Not important,No
+22,Female,Sometimes,Apple Watch,No,Sometimes,Less than 30 minutes,No,Yes,More than 7 hours,No,Somewhat important,No
+22,Male,Yes,Garmin,Yes,Sometimes,More than 60 minutes,Yes,Yes,5–7 hours,Yes,Very important,Maybe
+22,Female,Yes,Samsung,Yes,Sometimes,30–60 minutes,No,No,5–7 hours,Yes,Very important,Maybe
+22,Female,Yes,Samsung,Yes,No,Less than 30 minutes,No,Yes,5–7 hours,Yes,Very important,Yes
+22,Male,No,Samsung,No,No,More than 60 minutes,Yes,Yes,5–7 hours,Yes,Somewhat important,Yes
+22,Female,No,Fitbit,No,Sometimes,30–60 minutes,No,No,5–7 hours,Yes,Somewhat important,Maybe
+22,Female,No,Other,No,Yes,Less than 30 minutes,Yes,Yes,More than 7 hours,No,Very important,Yes
+22,Female,Yes,Garmin,No,No,Less than 30 minutes,Yes,Yes,Less than 5 hours,Yes,Not important,Maybe
+22,Female,No,Samsung,Yes,No,More than 60 minutes,Yes,Yes,5–7 hours,Yes,Very important,No
+22,Male,No,Samsung,No,No,More than 60 minutes,Yes,No,5–7 hours,No,Not important,Yes
+22,Female,No,Other,No,No,Less than 30 minutes,Yes,No,5–7 hours,Yes,Not important,Maybe
+22,Male,No,Other,Yes,No,30–60 minutes,No,Yes,5–7 hours,No,Somewhat important,Yes
+22,Female,Yes,Other,Yes,No,Less than 30 minutes,Yes,No,5–7 hours,No,Somewhat important,Maybe
+22,Male,Yes,Garmin,No,Yes,More than 60 minutes,No,No,More than 7 hours,No,Very important,Maybe
+22,Female,Yes,Apple Watch,No,No,30–60 minutes,No,No,More than 7 hours,Yes,Not important,No
+22,Female,Yes,Garmin,Yes,Yes,More than 60 minutes,No,Yes,More than 7 hours,Yes,Not important,No
+22,Female,Yes,Garmin,No,Sometimes,Less than 30 minutes,Yes,Yes,5–7 hours,Yes,Not important,Maybe
+22,Male,No,Samsung,No,Sometimes,More than 60 minutes,No,Yes,Less than 5 hours,Yes,Somewhat important,Yes
+22,Male,Yes,Samsung,Yes,Yes,30–60 minutes,No,No,5–7 hours,Yes,Somewhat important,No
+22,Male,No,Fitbit,No,Yes,Less than 30 minutes,Yes,Yes,Less than 5 hours,No,Not important,Maybe
+22,Female,Yes,Garmin,No,Sometimes,Less than 30 minutes,No,No,More than 7 hours,Yes,Somewhat important,Yes
+24,Male,No,Apple Watch,No,Yes,30–60 minutes,No,No,Less than 5 hours,Yes,Somewhat important,Maybe
+24,Male,No,Garmin,Yes,Yes,Less than 30 minutes,No,No,More than 7 hours,No,Very important,No
+24,Male,Yes,Fitbit,Yes,Sometimes,More than 60 minutes,No,Yes,More than 7 hours,No,Not important,Maybe
+24,Female,No,Garmin,Yes,Yes,30–60 minutes,No,No,More than 7 hours,Yes,Very important,Maybe
+24,Female,Yes,Other,No,Yes,More than 60 minutes,No,No,More than 7 hours,No,Somewhat important,No
+24,Female,No,Apple Watch,No,Yes,Less than 30 minutes,Yes,No,Less than 5 hours,No,Very important,Maybe
+24,Female,No,Apple Watch,Yes,No,More than 60 minutes,Yes,No,5–7 hours,Yes,Not important,No
+24,Male,Sometimes,Apple Watch,No,Sometimes,30–60 minutes,No,Yes,More than 7 hours,Yes,Very important,Yes
+24,Male,No,Garmin,Yes,Sometimes,Less than 30 minutes,Yes,No,5–7 hours,No,Not important,Maybe
+24,Female,Sometimes,Samsung,Yes,No,More than 60 minutes,No,No,5–7 hours,No,Not important,Maybe
+24,Male,No,Apple Watch,No,Sometimes,30–60 minutes,No,Yes,More than 7 hours,No,Very important,Maybe
+24,Female,Yes,Other,No,No,30–60 minutes,Yes,Yes,5–7 hours,Yes,Very important,Maybe
+24,Female,Sometimes,Samsung,Yes,No,Less than 30 minutes,Yes,Yes,Less than 5 hours,Yes,Very important,Maybe
+24,Male,Yes,Apple Watch,No,Yes,Less than 30 minutes,Yes,Yes,Less than 5 hours,Yes,Not important,Maybe
+24,Female,Sometimes,Apple Watch,No,No,More than 60 minutes,Yes,Yes,Less than 5 hours,Yes,Not important,No
+24,Female,Sometimes,Garmin,No,No,30–60 minutes,No,Yes,5–7 hours,No,Not important,No
+24,Female,No,Samsung,Yes,Sometimes,Less than 30 minutes,No,No,Less than 5 hours,No,Very important,Yes
+24,Female,No,Samsung,Yes,No,Less than 30 minutes,No,No,Less than 5 hours,No,Very important,Maybe
+24,Female,No,Apple Watch,No,Sometimes,More than 60 minutes,Yes,Yes,5–7 hours,No,Very important,No
+24,Male,Yes,Apple Watch,No,Yes,30–60 minutes,Yes,Yes,More than 7 hours,Yes,Very important,Maybe
+24,Female,Sometimes,Samsung,Yes,Yes,Less than 30 minutes,No,No,More than 7 hours,No,Somewhat important,Maybe
+24,Male,Yes,Samsung,No,No,Less than 30 minutes,Yes,No,5–7 hours,No,Very important,Maybe
+24,Female,Sometimes,Fitbit,No,Yes,More than 60 minutes,No,Yes,Less than 5 hours,No,Very important,Yes
+24,Male,Yes,Other,No,No,More than 60 minutes,Yes,Yes,5–7 hours,No,Very important,Yes
+24,Female,No,Other,Yes,Yes,30–60 minutes,No,Yes,More than 7 hours,Yes,Somewhat important,No
+24,Female,No,Samsung,No,No,Less than 30 minutes,No,No,More than 7 hours,No,Not important,Maybe
+24,Male,No,Apple Watch,Yes,Sometimes,30–60 minutes,Yes,No,5–7 hours,No,Very important,No
+24,Female,Sometimes,Fitbit,Yes,No,Less than 30 minutes,No,No,Less than 5 hours,Yes,Somewhat important,Maybe
+24,Female,Yes,Samsung,Yes,No,30–60 minutes,Yes,Yes,More than 7 hours,Yes,Not important,Yes
+24,Male,Sometimes,Samsung,Yes,No,More than 60 minutes,No,No,5–7 hours,Yes,Very important,No
+24,Male,Sometimes,Fitbit,No,No,30–60 minutes,No,Yes,5–7 hours,Yes,Somewhat important,Yes
+24,Male,No,Other,Yes,Sometimes,30–60 minutes,Yes,No,More than 7 hours,Yes,Very important,No
+24,Male,Sometimes,Apple Watch,Yes,No,30–60 minutes,No,Yes,Less than 5 hours,Yes,Somewhat important,Maybe
+24,Female,No,Samsung,Yes,No,More than 60 minutes,Yes,No,5–7 hours,Yes,Somewhat important,No
+24,Female,No,Other,Yes,No,More than 60 minutes,No,No,5–7 hours,Yes,Very important,Maybe
+24,Male,Sometimes,Samsung,No,Yes,More than 60 minutes,Yes,Yes,5–7 hours,No,Somewhat important,No
+24,Male,Yes,Garmin,No,Yes,More than 60 minutes,Yes,Yes,More than 7 hours,Yes,Somewhat important,No
+24,Female,No,Samsung,Yes,Sometimes,Less than 30 minutes,Yes,No,More than 7 hours,No,Very important,No
+24,Male,No,Garmin,Yes,Yes,Less than 30 minutes,No,Yes,5–7 hours,Yes,Very important,Yes
+24,Female,Yes,Other,No,No,30–60 minutes,No,No,More than 7 hours,No,Not important,Maybe
+24,Male,Yes,Garmin,No,Yes,Less than 30 minutes,Yes,No,More than 7 hours,No,Very important,Yes
+24,Male,No,Apple Watch,Yes,Sometimes,Less than 30 minutes,No,No,Less than 5 hours,No,Not important,Maybe
+24,Female,Sometimes,Apple Watch,Yes,No,Less than 30 minutes,Yes,No,5–7 hours,Yes,Not important,Yes
+24,Male,No,Fitbit,No,No,Less than 30 minutes,Yes,Yes,5–7 hours,Yes,Very important,Yes
+24,Male,Sometimes,Garmin,No,No,Less than 30 minutes,Yes,No,More than 7 hours,Yes,Very important,Yes
+24,Female,Sometimes,Samsung,No,No,Less than 30 minutes,Yes,No,More than 7 hours,Yes,Somewhat important,No
+24,Female,No,Apple Watch,No,No,30–60 minutes,No,No,Less than 5 hours,No,Somewhat important,Maybe
+24,Male,No,Samsung,No,Yes,More than 60 minutes,Yes,Yes,More than 7 hours,Yes,Very important,Yes
+24,Male,Yes,Samsung,No,Yes,More than 60 minutes,No,No,More than 7 hours,Yes,Very important,Yes
+24,Male,Sometimes,Garmin,No,No,More than 60 minutes,Yes,No,More than 7 hours,Yes,Somewhat important,Yes
+24,Male,No,Other,No,Sometimes,30–60 minutes,Yes,Yes,Less than 5 hours,No,Somewhat important,No
+24,Male,Yes,Apple Watch,Yes,Sometimes,30–60 minutes,No,No,Less than 5 hours,No,Somewhat important,No
+24,Male,Sometimes,Other,Yes,No,More than 60 minutes,No,Yes,More than 7 hours,No,Not important,No
+24,Female,Yes,Fitbit,Yes,No,Less than 30 minutes,No,Yes,More than 7 hours,Yes,Somewhat important,No
+24,Male,Yes,Samsung,Yes,Yes,Less than 30 minutes,Yes,Yes,Less than 5 hours,Yes,Very important,Yes
+24,Male,No,Other,Yes,Yes,More than 60 minutes,No,Yes,More than 7 hours,Yes,Somewhat important,No
+24,Female,Sometimes,Fitbit,No,No,More than 60 minutes,No,Yes,Less than 5 hours,No,Very important,Yes
+24,Female,Yes,Garmin,Yes,Yes,More than 60 minutes,No,No,More than 7 hours,Yes,Somewhat important,Maybe
+24,Male,No,Fitbit,Yes,No,Less than 30 minutes,Yes,Yes,Less than 5 hours,Yes,Somewhat important,Yes
+24,Female,No,Other,No,Sometimes,More than 60 minutes,Yes,Yes,Less than 5 hours,Yes,Not important,Yes
+24,Male,No,Garmin,No,Sometimes,More than 60 minutes,Yes,Yes,More than 7 hours,No,Not important,Yes
+24,Female,No,Apple Watch,Yes,Yes,Less than 30 minutes,Yes,Yes,More than 7 hours,Yes,Somewhat important,Yes
+24,Male,Sometimes,Garmin,No,Yes,30–60 minutes,Yes,No,5–7 hours,Yes,Very important,Yes
+24,Female,No,Apple Watch,No,Sometimes,More than 60 minutes,Yes,Yes,More than 7 hours,Yes,Very important,Yes
+24,Female,No,Other,Yes,Sometimes,30–60 minutes,No,Yes,More than 7 hours,No,Somewhat important,Yes
+24,Male,No,Samsung,Yes,Yes,More than 60 minutes,No,Yes,5–7 hours,Yes,Somewhat important,Yes
+24,Male,Yes,Fitbit,No,Sometimes,Less than 30 minutes,Yes,No,5–7 hours,No,Not important,Maybe
+24,Female,No,Garmin,No,Yes,30–60 minutes,Yes,No,More than 7 hours,No,Somewhat important,Yes
+24,Male,Sometimes,Garmin,Yes,No,30–60 minutes,No,Yes,5–7 hours,No,Very important,Yes
+24,Male,No,Fitbit,No,Yes,30–60 minutes,No,Yes,Less than 5 hours,Yes,Not important,Yes
+24,Male,Sometimes,Fitbit,No,No,Less than 30 minutes,No,Yes,Less than 5 hours,Yes,Not important,Maybe
+24,Male,Sometimes,Samsung,Yes,Yes,More than 60 minutes,No,No,More than 7 hours,No,Somewhat important,No
+24,Female,No,Fitbit,Yes,Sometimes,30–60 minutes,No,Yes,More than 7 hours,No,Somewhat important,No
+24,Male,Sometimes,Samsung,Yes,No,30–60 minutes,Yes,Yes,More than 7 hours,Yes,Very important,No
+24,Male,No,Apple Watch,No,Sometimes,More than 60 minutes,Yes,Yes,5–7 hours,No,Not important,Maybe
+24,Male,Yes,Apple Watch,No,Yes,Less than 30 minutes,Yes,No,5–7 hours,No,Somewhat important,Maybe
+24,Female,Yes,Other,No,Yes,Less than 30 minutes,Yes,No,5–7 hours,No,Very important,Yes
+24,Male,Sometimes,Other,Yes,No,30–60 minutes,No,No,5–7 hours,Yes,Not important,No
+24,Female,No,Fitbit,Yes,Sometimes,30–60 minutes,Yes,Yes,Less than 5 hours,Yes,Very important,Yes
+24,Male,No,Samsung,Yes,Sometimes,30–60 minutes,No,No,Less than 5 hours,No,Very important,Maybe
+24,Male,Yes,Fitbit,No,No,30–60 minutes,Yes,Yes,More than 7 hours,Yes,Somewhat important,Maybe
+24,Female,Yes,Other,No,No,More than 60 minutes,Yes,No,5–7 hours,Yes,Not important,No
+24,Male,Sometimes,Other,No,Sometimes,30–60 minutes,Yes,No,5–7 hours,Yes,Not important,No
+24,Female,No,Fitbit,Yes,Yes,Less than 30 minutes,Yes,Yes,5–7 hours,No,Not important,No
+24,Male,Sometimes,Samsung,Yes,No,Less than 30 minutes,Yes,Yes,5–7 hours,Yes,Not important,Maybe
+24,Male,Sometimes,Apple Watch,Yes,Sometimes,Less than 30 minutes,Yes,No,More than 7 hours,Yes,Very important,No
+24,Male,Yes,Fitbit,No,Sometimes,More than 60 minutes,Yes,No,More than 7 hours,Yes,Not important,Maybe
+24,Male,Yes,Samsung,Yes,Sometimes,More than 60 minutes,No,Yes,5–7 hours,No,Very important,Maybe
+24,Female,No,Samsung,Yes,Yes,More than 60 minutes,Yes,No,Less than 5 hours,Yes,Somewhat important,Yes
+24,Female,Sometimes,Samsung,Yes,Yes,30–60 minutes,No,Yes,Less than 5 hours,Yes,Very important,Maybe
+24,Female,Sometimes,Samsung,No,Sometimes,More than 60 minutes,No,No,5–7 hours,Yes,Very important,No
+24,Male,Yes,Garmin,Yes,Yes,More than 60 minutes,Yes,Yes,5–7 hours,No,Somewhat important,Yes
+24,Male,Sometimes,Samsung,Yes,No,More than 60 minutes,No,Yes,5–7 hours,Yes,Somewhat important,No
+24,Male,Yes,Garmin,Yes,No,More than 60 minutes,No,Yes,More than 7 hours,No,Not important,No
+24,Female,Sometimes,Other,No,Yes,30–60 minutes,Yes,No,More than 7 hours,Yes,Very important,No
+24,Female,Yes,Garmin,No,No,Less than 30 minutes,No,No,5–7 hours,No,Somewhat important,No
+24,Male,Yes,Fitbit,Yes,Sometimes,30–60 minutes,Yes,Yes,Less than 5 hours,Yes,Somewhat important,Maybe
+24,Male,Yes,Garmin,No,Yes,More than 60 minutes,Yes,Yes,Less than 5 hours,Yes,Not important,Yes
+24,Male,Sometimes,Fitbit,Yes,No,Less than 30 minutes,No,Yes,Less than 5 hours,No,Not important,No
+24,Male,Yes,Garmin,Yes,Yes,30–60 minutes,Yes,No,5–7 hours,Yes,Very important,No
+24,Female,No,Other,Yes,Sometimes,More than 60 minutes,No,Yes,5–7 hours,No,Not important,Maybe
+24,Female,No,Apple Watch,Yes,Sometimes,More than 60 minutes,Yes,No,5–7 hours,No,Somewhat important,No
+24,Female,Sometimes,Garmin,Yes,No,More than 60 minutes,Yes,Yes,Less than 5 hours,No,Somewhat important,Maybe
+24,Female,No,Apple Watch,No,Yes,Less than 30 minutes,Yes,No,Less than 5 hours,No,Very important,No
+24,Male,Yes,Other,No,No,More than 60 minutes,Yes,No,5–7 hours,Yes,Very important,Yes
+32,Male,Sometimes,Apple Watch,No,Yes,Less than 30 minutes,No,No,Less than 5 hours,No,Very important,Yes
+32,Female,No,Apple Watch,Yes,No,30–60 minutes,Yes,No,Less than 5 hours,Yes,Not important,Yes
+32,Female,Sometimes,Garmin,No,Yes,More than 60 minutes,No,No,More than 7 hours,Yes,Very important,Maybe
+32,Male,No,Garmin,No,No,30–60 minutes,Yes,Yes,5–7 hours,No,Somewhat important,No
+32,Male,Yes,Other,No,Sometimes,30–60 minutes,No,No,5–7 hours,Yes,Not important,No
+32,Male,Sometimes,Samsung,Yes,No,30–60 minutes,No,No,Less than 5 hours,No,Somewhat important,Maybe
+32,Female,Yes,Samsung,No,No,30–60 minutes,No,Yes,More than 7 hours,No,Very important,Yes
+32,Male,Yes,Fitbit,No,Sometimes,Less than 30 minutes,Yes,No,Less than 5 hours,No,Very important,Maybe
+32,Female,Yes,Fitbit,No,Sometimes,Less than 30 minutes,No,No,5–7 hours,No,Somewhat important,No
+32,Female,Sometimes,Apple Watch,Yes,No,Less than 30 minutes,No,Yes,5–7 hours,No,Somewhat important,Yes
+32,Male,Sometimes,Garmin,No,Yes,30–60 minutes,Yes,Yes,5–7 hours,No,Very important,Maybe
+32,Female,Yes,Other,Yes,Sometimes,More than 60 minutes,Yes,Yes,5–7 hours,Yes,Very important,No
+32,Male,Yes,Fitbit,No,Sometimes,More than 60 minutes,Yes,Yes,More than 7 hours,Yes,Very important,Yes
+32,Male,Sometimes,Apple Watch,Yes,Sometimes,Less than 30 minutes,No,No,Less than 5 hours,No,Not important,Yes
+32,Female,No,Fitbit,Yes,Sometimes,30–60 minutes,Yes,Yes,More than 7 hours,Yes,Somewhat important,Maybe
+32,Female,Sometimes,Samsung,No,Yes,30–60 minutes,Yes,Yes,More than 7 hours,Yes,Not important,Maybe
+32,Male,Sometimes,Fitbit,No,No,More than 60 minutes,No,Yes,More than 7 hours,Yes,Very important,Yes
+32,Female,No,Other,Yes,Sometimes,More than 60 minutes,No,No,5–7 hours,No,Somewhat important,Yes
+32,Female,Sometimes,Fitbit,No,Sometimes,30–60 minutes,No,No,Less than 5 hours,No,Not important,Yes
+32,Female,Yes,Apple Watch,Yes,No,More than 60 minutes,Yes,No,More than 7 hours,Yes,Very important,No
+32,Female,No,Apple Watch,Yes,No,30–60 minutes,Yes,No,5–7 hours,No,Somewhat important,No
+32,Male,Sometimes,Other,Yes,No,More than 60 minutes,No,No,More than 7 hours,Yes,Not important,Yes
+32,Female,Sometimes,Garmin,No,Yes,Less than 30 minutes,Yes,No,Less than 5 hours,Yes,Somewhat important,Yes
+32,Male,No,Apple Watch,No,Yes,Less than 30 minutes,No,No,Less than 5 hours,Yes,Not important,Maybe
+32,Male,Sometimes,Fitbit,No,Yes,Less than 30 minutes,No,No,5–7 hours,Yes,Very important,Maybe
+32,Male,Yes,Fitbit,No,Sometimes,More than 60 minutes,No,Yes,5–7 hours,No,Somewhat important,Yes
+32,Male,No,Fitbit,Yes,No,More than 60 minutes,No,No,More than 7 hours,Yes,Not important,No
+32,Female,Sometimes,Other,No,Yes,30–60 minutes,No,No,Less than 5 hours,Yes,Very important,No
+32,Male,Yes,Garmin,Yes,Yes,More than 60 minutes,No,Yes,5–7 hours,No,Not important,Yes
+32,Male,Yes,Garmin,No,No,More than 60 minutes,Yes,No,5–7 hours,No,Somewhat important,No
+32,Female,Sometimes,Apple Watch,Yes,No,30–60 minutes,Yes,No,More than 7 hours,Yes,Somewhat important,Maybe
+32,Female,Sometimes,Garmin,Yes,Yes,30–60 minutes,Yes,No,Less than 5 hours,No,Very important,No
+32,Male,Yes,Fitbit,No,Sometimes,30–60 minutes,No,Yes,More than 7 hours,No,Not important,No
+32,Female,No,Fitbit,No,Sometimes,Less than 30 minutes,Yes,Yes,5–7 hours,No,Very important,Maybe
+32,Female,Sometimes,Fitbit,No,Yes,More than 60 minutes,Yes,Yes,Less than 5 hours,Yes,Very important,Yes
+32,Male,Sometimes,Garmin,Yes,Yes,More than 60 minutes,No,No,5–7 hours,No,Somewhat important,Maybe
+32,Female,No,Fitbit,No,Sometimes,Less than 30 minutes,No,No,5–7 hours,Yes,Very important,Maybe
+32,Female,Yes,Garmin,Yes,No,More than 60 minutes,Yes,No,Less than 5 hours,No,Very important,Yes
+32,Female,Sometimes,Samsung,Yes,No,Less than 30 minutes,No,No,Less than 5 hours,Yes,Not important,Maybe
+32,Male,Yes,Garmin,Yes,Sometimes,Less than 30 minutes,Yes,Yes,Less than 5 hours,No,Somewhat important,Maybe
+32,Female,Sometimes,Apple Watch,Yes,Yes,More than 60 minutes,No,No,5–7 hours,Yes,Very important,No
+32,Male,No,Apple Watch,No,Sometimes,Less than 30 minutes,Yes,No,Less than 5 hours,Yes,Not important,Maybe
+32,Female,No,Garmin,Yes,Yes,30–60 minutes,No,No,Less than 5 hours,Yes,Very important,Maybe
+32,Male,Sometimes,Samsung,Yes,No,Less than 30 minutes,No,Yes,More than 7 hours,No,Not important,No
+32,Male,Yes,Fitbit,Yes,Yes,Less than 30 minutes,No,No,More than 7 hours,No,Very important,No
+32,Female,Yes,Apple Watch,No,Sometimes,Less than 30 minutes,Yes,No,More than 7 hours,No,Very important,Maybe
+32,Male,Sometimes,Apple Watch,Yes,No,Less than 30 minutes,Yes,Yes,5–7 hours,No,Not important,No
+32,Female,Yes,Apple Watch,Yes,No,30–60 minutes,No,Yes,More than 7 hours,Yes,Not important,Yes
+32,Female,Yes,Fitbit,Yes,Sometimes,More than 60 minutes,Yes,No,Less than 5 hours,Yes,Very important,Maybe
+32,Male,Sometimes,Apple Watch,Yes,Yes,30–60 minutes,Yes,Yes,Less than 5 hours,Yes,Very important,Yes
+32,Female,Sometimes,Fitbit,Yes,Yes,Less than 30 minutes,No,No,5–7 hours,No,Somewhat important,Yes
+32,Female,No,Garmin,Yes,Yes,More than 60 minutes,Yes,Yes,More than 7 hours,Yes,Not important,Yes
+32,Female,Sometimes,Other,Yes,Yes,30–60 minutes,Yes,No,More than 7 hours,Yes,Somewhat important,Yes
+32,Female,Yes,Other,No,Yes,More than 60 minutes,No,Yes,5–7 hours,Yes,Somewhat important,Maybe
+32,Female,Sometimes,Apple Watch,No,No,More than 60 minutes,No,Yes,5–7 hours,Yes,Very important,No
+32,Male,Sometimes,Other,Yes,Yes,Less than 30 minutes,Yes,No,Less than 5 hours,Yes,Very important,Yes
+26,Female,Yes,Apple Watch,Yes,Sometimes,More than 60 minutes,No,Yes,Less than 5 hours,No,Somewhat important,Maybe
+26,Female,Sometimes,Other,No,Yes,Less than 30 minutes,No,No,5–7 hours,Yes,Not important,No
+26,Male,Sometimes,Apple Watch,Yes,Yes,More than 60 minutes,Yes,No,5–7 hours,Yes,Very important,Maybe
+26,Male,Sometimes,Samsung,No,Yes,30–60 minutes,No,No,More than 7 hours,Yes,Very important,Yes
+26,Male,Yes,Samsung,No,No,30–60 minutes,No,Yes,5–7 hours,No,Somewhat important,Maybe
+26,Female,Yes,Fitbit,No,Yes,30–60 minutes,Yes,Yes,More than 7 hours,Yes,Somewhat important,Maybe
+26,Male,Yes,Garmin,No,Sometimes,Less than 30 minutes,Yes,No,More than 7 hours,Yes,Not important,Yes
+26,Female,Yes,Apple Watch,No,No,30–60 minutes,No,No,More than 7 hours,No,Somewhat important,No
+26,Male,Yes,Garmin,No,Yes,More than 60 minutes,Yes,No,Less than 5 hours,Yes,Somewhat important,No
+26,Female,No,Samsung,No,Yes,30–60 minutes,No,No,More than 7 hours,No,Not important,Maybe
+26,Male,Sometimes,Other,No,No,More than 60 minutes,Yes,Yes,Less than 5 hours,No,Somewhat important,No
+26,Female,Yes,Apple Watch,Yes,Yes,30–60 minutes,Yes,No,Less than 5 hours,No,Very important,No
+26,Female,Sometimes,Other,No,Sometimes,Less than 30 minutes,No,Yes,More than 7 hours,No,Not important,Maybe
+26,Female,Sometimes,Garmin,No,No,More than 60 minutes,Yes,Yes,More than 7 hours,No,Not important,No
+26,Female,Sometimes,Other,No,Sometimes,More than 60 minutes,No,Yes,More than 7 hours,Yes,Very important,Maybe
+26,Female,No,Other,No,Sometimes,More than 60 minutes,No,No,More than 7 hours,Yes,Somewhat important,No
+26,Female,Yes,Garmin,Yes,Sometimes,Less than 30 minutes,Yes,Yes,Less than 5 hours,No,Not important,Yes
+26,Female,Sometimes,Apple Watch,No,Yes,More than 60 minutes,No,Yes,More than 7 hours,No,Not important,Yes
+26,Female,Sometimes,Apple Watch,Yes,No,Less than 30 minutes,Yes,Yes,Less than 5 hours,Yes,Not important,Maybe
+26,Female,No,Garmin,No,Yes,30–60 minutes,No,No,More than 7 hours,Yes,Somewhat important,Yes
+26,Male,Sometimes,Other,Yes,Yes,30–60 minutes,No,No,5–7 hours,No,Somewhat important,No
+26,Female,Yes,Fitbit,No,No,Less than 30 minutes,No,Yes,Less than 5 hours,No,Not important,Maybe
+26,Male,Yes,Fitbit,No,Yes,30–60 minutes,Yes,No,More than 7 hours,Yes,Not important,Yes
+26,Female,Sometimes,Apple Watch,Yes,Sometimes,Less than 30 minutes,No,Yes,Less than 5 hours,No,Not important,Maybe
+26,Male,Yes,Samsung,No,Sometimes,Less than 30 minutes,No,No,5–7 hours,No,Very important,No
+26,Male,Yes,Apple Watch,Yes,Sometimes,Less than 30 minutes,No,No,More than 7 hours,Yes,Not important,Maybe
+26,Male,Sometimes,Fitbit,Yes,Yes,More than 60 minutes,No,Yes,5–7 hours,Yes,Not important,Maybe
+26,Female,Sometimes,Apple Watch,Yes,Sometimes,Less than 30 minutes,No,Yes,5–7 hours,No,Not important,No
+26,Male,Sometimes,Apple Watch,No,Yes,Less than 30 minutes,Yes,Yes,More than 7 hours,No,Not important,Yes
+26,Female,No,Samsung,Yes,Sometimes,More than 60 minutes,No,Yes,5–7 hours,No,Very important,No
+26,Male,Sometimes,Apple Watch,Yes,Sometimes,More than 60 minutes,No,Yes,Less than 5 hours,Yes,Somewhat important,Yes
+26,Female,Sometimes,Other,No,No,More than 60 minutes,No,No,More than 7 hours,Yes,Somewhat important,Yes
+26,Female,No,Other,No,Yes,More than 60 minutes,No,No,5–7 hours,No,Somewhat important,No
+26,Female,No,Samsung,No,Yes,Less than 30 minutes,No,Yes,Less than 5 hours,Yes,Somewhat important,No
+26,Female,Sometimes,Other,No,Sometimes,Less than 30 minutes,Yes,No,Less than 5 hours,Yes,Not important,Yes
+26,Male,No,Garmin,Yes,Sometimes,Less than 30 minutes,Yes,No,Less than 5 hours,Yes,Somewhat important,Maybe
+26,Male,No,Fitbit,No,No,Less than 30 minutes,No,No,More than 7 hours,No,Somewhat important,Yes
+26,Female,No,Apple Watch,No,Yes,30–60 minutes,No,No,5–7 hours,No,Somewhat important,Maybe
+26,Male,Sometimes,Fitbit,Yes,Yes,More than 60 minutes,Yes,No,More than 7 hours,Yes,Very important,No
+26,Female,Yes,Samsung,Yes,Sometimes,30–60 minutes,No,Yes,5–7 hours,No,Very important,Maybe
+26,Male,No,Samsung,Yes,Sometimes,More than 60 minutes,Yes,Yes,More than 7 hours,Yes,Somewhat important,No
+26,Male,Sometimes,Samsung,Yes,Yes,Less than 30 minutes,Yes,No,More than 7 hours,Yes,Very important,Yes
+26,Male,Sometimes,Fitbit,Yes,No,30–60 minutes,Yes,No,5–7 hours,No,Very important,Yes
+26,Female,No,Garmin,Yes,No,30–60 minutes,Yes,Yes,More than 7 hours,No,Not important,Maybe
+26,Female,Sometimes,Other,No,Sometimes,30–60 minutes,Yes,No,5–7 hours,Yes,Not important,Maybe
+26,Male,Yes,Fitbit,No,Yes,Less than 30 minutes,Yes,No,5–7 hours,Yes,Very important,Yes
+26,Male,No,Garmin,Yes,Sometimes,30–60 minutes,No,No,More than 7 hours,Yes,Not important,Yes
+26,Male,Yes,Garmin,Yes,No,Less than 30 minutes,No,Yes,More than 7 hours,Yes,Somewhat important,Yes
+26,Male,Sometimes,Fitbit,Yes,Sometimes,30–60 minutes,No,No,5–7 hours,No,Not important,Maybe
+26,Female,Yes,Fitbit,Yes,No,Less than 30 minutes,Yes,No,Less than 5 hours,No,Not important,Yes
+26,Male,Sometimes,Samsung,Yes,Yes,More than 60 minutes,No,No,More than 7 hours,Yes,Very important,Maybe
+26,Male,Sometimes,Fitbit,No,Sometimes,Less than 30 minutes,No,Yes,5–7 hours,Yes,Very important,No
+26,Male,No,Samsung,No,Sometimes,More than 60 minutes,No,No,More than 7 hours,No,Somewhat important,Maybe
+26,Female,Yes,Garmin,Yes,Yes,More than 60 minutes,No,Yes,5–7 hours,No,Very important,No
+26,Female,Sometimes,Fitbit,Yes,Sometimes,More than 60 minutes,Yes,No,5–7 hours,No,Not important,No
+26,Female,Sometimes,Garmin,Yes,No,30–60 minutes,Yes,No,More than 7 hours,No,Very important,Maybe
+26,Male,No,Samsung,No,No,More than 60 minutes,No,No,Less than 5 hours,Yes,Not important,Maybe
+26,Male,Yes,Apple Watch,No,Yes,30–60 minutes,Yes,Yes,More than 7 hours,No,Not important,Yes
+26,Female,Sometimes,Samsung,Yes,Sometimes,30–60 minutes,No,Yes,More than 7 hours,No,Very important,Maybe
+23,Male,No,Apple Watch,No,Sometimes,30–60 minutes,Yes,Yes,Less than 5 hours,No,Very important,Maybe
+23,Female,Sometimes,Apple Watch,Yes,Yes,30–60 minutes,Yes,Yes,More than 7 hours,Yes,Somewhat important,Yes
+23,Female,No,Other,No,Sometimes,30–60 minutes,No,Yes,Less than 5 hours,Yes,Very important,No
+23,Male,Sometimes,Samsung,No,Sometimes,More than 60 minutes,No,No,5–7 hours,No,Not important,Maybe
+23,Male,No,Samsung,Yes,Sometimes,Less than 30 minutes,No,Yes,Less than 5 hours,No,Somewhat important,No
+23,Male,No,Apple Watch,Yes,Sometimes,Less than 30 minutes,No,No,Less than 5 hours,No,Not important,No
+23,Male,Yes,Fitbit,Yes,Sometimes,Less than 30 minutes,Yes,Yes,Less than 5 hours,No,Somewhat important,Maybe
+23,Female,Sometimes,Apple Watch,Yes,No,Less than 30 minutes,Yes,No,More than 7 hours,No,Not important,No
+23,Male,Yes,Fitbit,No,No,Less than 30 minutes,Yes,No,More than 7 hours,No,Not important,Yes
+23,Male,Sometimes,Samsung,Yes,No,Less than 30 minutes,No,No,More than 7 hours,Yes,Somewhat important,Yes
+23,Male,Yes,Other,Yes,Sometimes,More than 60 minutes,Yes,Yes,5–7 hours,No,Not important,No
+23,Female,No,Garmin,Yes,No,More than 60 minutes,Yes,Yes,5–7 hours,No,Very important,Yes
+23,Female,Yes,Garmin,Yes,Sometimes,30–60 minutes,Yes,Yes,More than 7 hours,Yes,Not important,No
+23,Female,Sometimes,Apple Watch,No,Yes,30–60 minutes,No,No,Less than 5 hours,No,Not important,Yes
+23,Male,Yes,Garmin,No,Sometimes,30–60 minutes,Yes,No,More than 7 hours,Yes,Very important,Yes
+23,Male,No,Fitbit,No,Sometimes,30–60 minutes,No,Yes,Less than 5 hours,No,Somewhat important,Maybe
+23,Male,No,Samsung,No,Yes,Less than 30 minutes,No,No,More than 7 hours,No,Somewhat important,Maybe
+23,Male,Yes,Garmin,Yes,Sometimes,More than 60 minutes,No,Yes,Less than 5 hours,No,Not important,Yes
+23,Male,No,Fitbit,No,Sometimes,More than 60 minutes,No,Yes,5–7 hours,No,Not important,Maybe
+23,Male,Yes,Other,No,No,More than 60 minutes,No,Yes,More than 7 hours,Yes,Very important,No
+23,Female,Sometimes,Samsung,No,Yes,30–60 minutes,No,Yes,5–7 hours,Yes,Somewhat important,Maybe
+23,Female,Yes,Other,Yes,No,More than 60 minutes,No,No,5–7 hours,Yes,Somewhat important,Yes
+23,Female,No,Apple Watch,Yes,Sometimes,More than 60 minutes,Yes,No,5–7 hours,Yes,Very important,Yes
+23,Male,No,Garmin,No,No,Less than 30 minutes,Yes,No,5–7 hours,No,Not important,Yes
+23,Female,Sometimes,Other,No,Sometimes,30–60 minutes,Yes,No,5–7 hours,Yes,Somewhat important,No
+23,Female,No,Other,Yes,Yes,30–60 minutes,No,No,5–7 hours,No,Very important,No
+23,Female,Yes,Other,Yes,Sometimes,30–60 minutes,No,Yes,More than 7 hours,No,Somewhat important,Yes
+23,Male,Yes,Other,No,Yes,More than 60 minutes,No,Yes,5–7 hours,Yes,Very important,Maybe
+23,Female,Yes,Samsung,No,Sometimes,Less than 30 minutes,Yes,Yes,More than 7 hours,No,Somewhat important,Maybe
+23,Female,No,Fitbit,Yes,No,30–60 minutes,No,Yes,Less than 5 hours,No,Not important,Yes
+23,Male,Sometimes,Garmin,Yes,Yes,More than 60 minutes,No,Yes,More than 7 hours,No,Somewhat important,Yes
+23,Female,Sometimes,Apple Watch,No,Yes,Less than 30 minutes,No,No,Less than 5 hours,No,Somewhat important,Maybe
+23,Male,Sometimes,Samsung,Yes,Sometimes,More than 60 minutes,No,No,5–7 hours,Yes,Very important,Maybe
+23,Female,Yes,Samsung,No,Yes,Less than 30 minutes,Yes,Yes,More than 7 hours,Yes,Somewhat important,Yes
+23,Female,No,Garmin,Yes,Sometimes,Less than 30 minutes,No,Yes,More than 7 hours,Yes,Very important,No
